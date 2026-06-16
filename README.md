@@ -1,2 +1,28 @@
-# cd0b5de7-cleaning-janitorial-customer
-Stop losing cleaning contracts because you missed a customer's simple request — now capture every feedback and feature idea in one organized Notion board.  This template transforms scattered emails, texts, and verbal comments into a structured feedback system. You'll instantly see what clients want most, prioritize feature requests like green clean
+# Cleaning & Janitorial Customer Feedback and Feature Request Board Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu9ATaDde2M5tu5bud0k01)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu9ATaDde2M5tu5bud0k01)
+
